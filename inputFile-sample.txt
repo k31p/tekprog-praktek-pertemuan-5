@@ -1,0 +1,23 @@
+Manager
+Retail Store
+Udin Sanjaya
+10000.00
+6.2
+2000.00
+15
+25
+SalesAssociate
+CEO
+Sanjaya Udin
+2000.00
+8.2
+5000.00
+80.00
+QA
+Pengecek handal
+Yobel Doloksaribu
+3500.00
+68.9
+7.2
+90.2
+27
